@@ -1,7 +1,7 @@
 name: simpler_updater
 description: "A new Flutter package project."
 version: 1.0.0
-homepage:
+homepage: https://github.com/Eldiyar0220/simpler_updater
 
 environment:
   sdk: '>=3.2.5 <4.0.0'
