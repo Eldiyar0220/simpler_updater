@@ -1,5 +1,5 @@
 name: simpler_updater
-description: "A new Flutter package project."
+description: A Flutter package that prompts users to update their app when a newer version is available in the app store.
 version: 1.0.0
 homepage: https://github.com/Eldiyar0220/simpler_updater
 

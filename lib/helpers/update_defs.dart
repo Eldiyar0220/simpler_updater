@@ -1,4 +1,3 @@
-
 import 'package:simpler_updater/helpers/update_model.dart';
 
 typedef BoolCallback = bool Function();
